@@ -767,7 +767,7 @@ hr.post-end {
   border: 3px dashed rgba(255, 255, 255, .2);
   border-radius: 5px;
 
-  h2{
+  h2 {
     margin: 0;
     line-height: normal;
   }
@@ -778,6 +778,12 @@ hr.post-end {
   }
 }
 
+.app-contribution-logo {
+  width: 64px;
+  height: 64px;
+  margin-bottom: 8px !important;
+  margin-top: 4px !important;
+}
 
 // Media Queries
 //
